@@ -41,7 +41,7 @@
     "kurasuta": "^2.2.3",
     "node-schedule": "^2.0.0",
     "randomstring": "^1.2.1",
-    "re2": "^1.16.0",
+    "re2": "^1.23.0",
     "require-reload": "^0.2.2",
     "rethinkdbdash": "^2.3.31",
     "url-regex-safe": "^2.0.2",
